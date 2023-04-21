@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415791615440",
+    "project_id": "greenery-c3ed7",
+    "storage_bucket": "greenery-c3ed7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415791615440:android:a785bf753177d171e8fdd5",
+        "android_client_info": {
+          "package_name": "com.example.greenery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415791615440-2im529kmikv0h65atfahndv9ekomvci2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBIOErKTJVcyCZDUqMzfFtqGxFYigU7X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415791615440-2im529kmikv0h65atfahndv9ekomvci2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
